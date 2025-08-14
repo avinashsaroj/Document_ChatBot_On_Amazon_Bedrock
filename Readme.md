@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # now write readme.md file for this project
 
 Certainly! Here's a sample **README.md** file for your project, based on the provided code and dependencies.
