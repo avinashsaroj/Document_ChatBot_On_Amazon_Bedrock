@@ -1,4 +1,4 @@
-# PDF-QA with Amazon Bedrock \& Streamlit
+# PDF-QnA with Amazon Bedrock \& Streamlit
 
 This project is a PDF Question-Answering (QA) system leveraging **Amazon Bedrock** embeddings and large language models. Using **Streamlit** for interactive UI, it processes PDF documents, indexes them with vector embeddings (Titan), and allows users to ask questions that are answered using LLMs (Llama2, Jurassic2) via Bedrock.
 
